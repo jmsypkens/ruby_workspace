@@ -1,3 +1,6 @@
+# Program by Jerry Sypkens || jerrySypkens.com 
+# This program helps you find a musical scale in any key. 
+
 def major_scale
     # Major Scale Formula: 
         # Root / Whole Step / Whole Step / Half Step / Whole Step / Whole Step / Whole Step / Half Step
