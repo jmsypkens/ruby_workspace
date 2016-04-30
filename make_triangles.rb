@@ -3,7 +3,7 @@ def make_triangles(n)
     stars = '*'
     puts "#{stars}"  
     
-    while counter <= n  
+    while counter <= (n - 1)  
         puts stars = stars + '*'
         counter += 1
     end 
