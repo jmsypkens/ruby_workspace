@@ -310,10 +310,6 @@ def melodic_min
     end 
 end 
     
-    
-    
-    
-
 def user_menu 
     p "This program helps you find the scale for any key."
     p "What scale would you like?" 
