@@ -23,6 +23,3 @@ def user_menu
 end 
 
 user_menu
-
-
-
